@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>tego słucham</title>
+    <style>
+        body {
+            font-size: .875em;
+            padding: 0 5px;
+            display: flex;
+            justify-content: center;
+            background-color: #282c34;
+            color: #bbb;
+            line-height: 1.5;
+            font-family: sans-serif;
+        }
+        #root {
+            max-width: 42.5em;
+        }
+        h2 {
+            color: #e06c75;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            padding-left: 2em;
+            text-indent: -2em;
+        }
+        time {
+            font-size: .75rem;
+            color: #495162;
+            margin-left: .75em;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script>
+        fetch("tegoslucham.json")
+        .then(res => res.json())
+        .then(res => {
+            let yearsArray = [];
+            for (const year in res.years) {
+            yearsArray = ["<h2>" + year + "</h2><ul>" + res.years[year].map(record => `<li><b>${record.artist}</b> – <i>${record.album}</i> <time>${record.date}</time></li>`).join("") + "</ul>", ...yearsArray];
+            }
+            document.getElementById("root").innerHTML = yearsArray.join("");
+        })
+        .catch(function(error) {
+            console.log(error)
+        });    
+    </script>
+</body>
+</html>
