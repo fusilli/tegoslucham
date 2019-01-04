@@ -2,6 +2,16 @@
   "years": {
     "2019": [
       {
+        "artist": "Antipop Consortium",
+        "album": "Arrhythmia",
+        "date": "2019-01-04"
+      },
+      {
+        "artist": "Hprizm",
+        "album": "Magnetic Memory",
+        "date": "2019-01-04"
+      },
+      {
         "artist": "Lonker See",
         "album": "One Eye Sees Red",
         "date": "2019-01-03"
@@ -434,7 +444,7 @@
         "date": "2018-04-05"
       },
       {
-        "artist": "Jean Grae",
+        "artist": "Jean Grae & Quelle Chris",
         "album": "Everything's Fine",
         "date": "2018-03-31"
       },
