@@ -2,10 +2,20 @@
   "years": {
     "2019": [
       {
+        "artist": "Ash The Author",
+        "album": "Two Man Band",
+        "date": "2019-07-09"
+      },
+      {
+        "artist": "Ded Tebiase",
+        "album": "Landspeed",
+        "date": "2019-07-09"
+      },
+      {
         "artist": "Georgia Anne Muldrow",
         "album": "VWETO II",
         "date": "2019-07-07"
-      }
+      },
       {
         "artist": "Morcheeba",
         "album": "Blaze Away",
