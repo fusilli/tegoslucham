@@ -1,21 +1,28 @@
 {
   "years": {
-    "2020": [
+    "2021": [
+      {
+        "artist": "Armand Hammer, The Alchemist",
+        "album": "Haram",
+        "date": "2021-04-19"
+      },
       {
         "artist": "George Porter Jr. and Runnin' Pardners",
         "album": "Crying For Hope",
-        "date": "2020-04-05"
+        "date": "2021-04-05"
       },
       {
         "artist": "Kinga Głyk",
         "album": "Feelings",
-        "date": "2020-03-04"
+        "date": "2021-03-04"
       },
       {
         "artist": "Sleaford Mods",
         "album": "Spare Ribs",
-        "date": "2020-02-12"
-      },
+        "date": "2021-02-12"
+      }
+    ],
+    "2020": [
       {
         "artist": "The Du-Rites",
         "album": "A Funky Bad Time",
