@@ -1,6 +1,28 @@
 {
   "years": {
+    "2022": [
+      {
+        "artist": "Scary Goldings",
+        "album": "Scary Goldings IV",
+        "date": "2022-01-22"
+      },
+      {
+        "artist": "Art Budyń & Chango",
+        "album": "Ukryte do wiadomości",
+        "date": "2022-01-05"
+      },
+      {
+        "artist": "Yola",
+        "album": "Stand For Myself",
+        "date": "2022-01-02"
+      }
+    ],
     "2021": [
+      {
+        "artist": "Allison Russell",
+        "album": "Outside Child",
+        "date": "2021-12-31"
+      },
       {
         "artist": "Black Pumas",
         "album": "Black Pumas",
