@@ -2,9 +2,39 @@
   "years": {
     "2022": [
       {
+        "artist": "MonoNeon",
+        "album": "There Goes That Man Again Turning Water Into Gin & Juice ",
+        "date": "2022-09-15"
+      },
+      {
+        "artist": "Sasha Berliner",
+        "album": "Onyx",
+        "date": "2022-09-13"
+      },
+      {
+        "artist": "Domi and JD Beck",
+        "album": "Not Tight",
+        "date": "2022-09-10"
+      },
+      {
+        "artist": "Aaron Choulai",
+        "album": "Raw Denshi",
+        "date": "2022-09-09"
+      },
+      {
+        "artist": "Charles Stepney",
+        "album": "Step On Step",
+        "date": "2022-09-09"
+      },
+      {
         "artist": "Thee Sacred Souls",
         "album": "Thee Sacred Souls",
         "date": "2022-08-31"
+      },
+      {
+        "artist": "Nonjuror",
+        "album": "Chopsmith Offcuts",
+        "date": "2022-09-04"
       },
       {
         "artist": "Roc Marciano, The Alchemist",
@@ -15,6 +45,11 @@
         "artist": "Black Thought, Danger Mouse",
         "album": "Cheat Codes",
         "date": "2022-08-21"
+      },
+      {
+        "artist": "Klawo",
+        "album": "Klawo",
+        "date": "2022-08-06"
       },
       {
         "artist": "Wu-Lu",
