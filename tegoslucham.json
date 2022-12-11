@@ -1,6 +1,11 @@
 {
   "years": {
-    "2022": [
+    "2022": [      
+      {
+        "artist": "Jarv",
+        "album": "The Amalgam",
+        "date": "2022-12-05"
+      },      
       {
         "artist": "Rome Streetz",
         "album": "Kiss the Ring",
@@ -17,8 +22,13 @@
         "date": "2022-10-01"
       },
       {
+        "artist": "Jid",
+        "album": "The Forever Story",
+        "date": "2022-09-15"
+      },
+      {
         "artist": "MonoNeon",
-        "album": "There Goes That Man Again Turning Water Into Gin & Juice ",
+        "album": "There Goes That Man Again Turning Water Into Gin & Juice",
         "date": "2022-09-15"
       },
       {
