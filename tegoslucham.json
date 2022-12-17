@@ -1,11 +1,16 @@
 {
   "years": {
-    "2022": [      
+    "2022": [
+      {
+        "artist": "Lady Wray",
+        "album": "Piece of Me",
+        "date": "2022-12-17"
+      },
       {
         "artist": "Jarv",
         "album": "The Amalgam",
         "date": "2022-12-05"
-      },      
+      },
       {
         "artist": "Rome Streetz",
         "album": "Kiss the Ring",
